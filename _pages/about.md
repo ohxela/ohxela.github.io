@@ -3,11 +3,8 @@ permalink: /projects/
 title: "Projects"
 ---
 
-### Below are a selection of projects I contributed to during my time with BG Sports, the Phoenix Suns, and Amazon, showcasing my experience in brand strategy, partnership activation, and creative development across various high-impact initiatives
 
-###### BG SPORTS:
-
-- This section showcases graphic and video editing projects I have successfully created and viewed on social media reflecting my creative skills, technical proficiency, and ability to produce high-quality visual content that supports branding and communication goals.
+**BG SPORTS:** section showcases graphic and video editing projects I have successfully created and viewed on social media reflecting my creative skills, technical proficiency, and ability to produce high-quality visual content that supports branding and communication goals.
 
 
 **Visual Graphics & Reels**
