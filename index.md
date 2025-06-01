@@ -12,7 +12,7 @@ author_profile: true
 
 ##### PHOENIX SUNS
 
-- **1 Month Internship** opportunity where I helped led creative concepts to include Sprite as a future partner and strategies revolving around the Fry’s and Coke Phoenix Suns Partnership activation
+- **1 Month Internship:** Completed a one-month internship where I contributed to the development of creative concepts integrating Sprite as a potential partner, and supported strategic planning for the Fry’s and Coca-Cola Phoenix Suns partnership activation.
   
 ##### AMAZON 
 
