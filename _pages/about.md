@@ -7,7 +7,7 @@ title: "Projects"
 
 ###### BG SPORTS:
 
-This section showcases graphic and video editing projects I have successfully created and viewed on social media reflecting my creative skills, technical proficiency, and ability to produce high-quality visual content that supports branding and communication goals.
+- This section showcases graphic and video editing projects I have successfully created and viewed on social media reflecting my creative skills, technical proficiency, and ability to produce high-quality visual content that supports branding and communication goals.
 
 
 **Visual Graphics & Reels**
