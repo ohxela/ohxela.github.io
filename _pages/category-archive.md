@@ -1,8 +1,8 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Presentations"
+layout: presentations
+permalink: /presentations/
 author_profile: true
 ---
 
-Testing to see where this page will be. So aregaregreagvdzbgaergezgvreavervaerverv
+Testing for presentation header to see where this page will be. So aregaregreagvdzbgaergezgvreavervaerverv
