@@ -1,4 +1,4 @@
 ---
-title: "Presentations"
-permalink: /presentations/
+title: "Category"
+permalink: /category/
 ---
