@@ -3,7 +3,7 @@ permalink: /projects/
 title: "Projects"
 ---
 
-##### Below are a selection of projects I contributed to during my time with BG Sports, the Phoenix Suns, and Amazon, showcasing my experience in brand strategy, partnership activation, and creative development across various high-impact initiatives
+### Below are a selection of projects I contributed to during my time with BG Sports, the Phoenix Suns, and Amazon, showcasing my experience in brand strategy, partnership activation, and creative development across various high-impact initiatives
 
 ###### BG SPORTS:
 
