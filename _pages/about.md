@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /presentations/
+title: "Presentations"
 ---
 
 
