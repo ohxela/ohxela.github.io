@@ -14,17 +14,12 @@ title: "Projects"
 
 
 **PHOENIX SUNS:** I utilized my creativity and design skills using tools like Canva, Photoshop, and more to develop engaging visuals and promotional content
+
+
 ![Sprite Thirst for Entertainment](assets/images/phoenixsuns1.JPG) 
-*Target Audience Insights: Image was used for an in-game event(s) to draw in younger demographics to attend basketball games to showcase their artistic talents*
--Ages 14–25
--Love music (especially hip hop/R&B)
--Social media-first: TikTok, IG Reels, YouTube Shorts
--Streetwear, sneaker culture, NBA2K players
--Proud of their city, culture, and energy
--Grew up on Booker & KD highlights
+
 
 ![Thirst for the Vally](assets/images/ThirstForTheValley.png)
-*Image was presented to stakeholders and used in X and Instagram story promotions to quickly capture viewers attention
 
 
 
