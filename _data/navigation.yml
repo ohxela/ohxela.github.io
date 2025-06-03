@@ -3,7 +3,7 @@ main:
     url: /projects/
   #- title: "Projects"
   #  url: /projects/
-  - title: "Education"
-    url: /education/
+  #- title: "Education"
+  #  url: /education/
   - title: "About"
     url: /about/
