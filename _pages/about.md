@@ -15,11 +15,8 @@ title: "Projects"
 
 **PHOENIX SUNS:** I utilized my creativity and design skills using tools like Canva, Photoshop, and more to develop engaging visuals and promotional content
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQWTrkwZqg1IBn70H-2PO-aShLvxfnhtFK0__IJCZSP2Yg4xgmzb8Yi1dzOpdeV8_SNm4-G_-20R_Jl/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-![Sprite Thirst for Entertainment](assets/images/phoenixsuns1.JPG) 
-
-
-![Thirst for the Vally](assets/images/ThirstForTheValley.png)
 
 
 
