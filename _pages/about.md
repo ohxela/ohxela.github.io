@@ -17,9 +17,9 @@ title: "Projects"
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQWTrkwZqg1IBn70H-2PO-aShLvxfnhtFK0__IJCZSP2Yg4xgmzb8Yi1dzOpdeV8_SNm4-G_-20R_Jl/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+---
 
-
-
+[Suns Graph](assets/images/Creatingdataforsuns.png)
 
 
 
