@@ -86,11 +86,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-[[params.social]]
-icon = "linkedin"
-icon_pack = "fa"
-link = "//www.linkedin.com/in/alexander-h-262534a2"
-
 defaults:
   # _posts
   - scope:
