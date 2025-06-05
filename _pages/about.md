@@ -19,7 +19,7 @@ title: "Projects"
 
 ---
 
-[Suns Graph](assets/images/Creatingdataforsuns.png)
+![Suns Graph](assets/images/Creatingdataforsuns.png)
 
 
 
