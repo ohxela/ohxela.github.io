@@ -8,7 +8,7 @@ author_profile: true
 
 ##### [BG SPORTS](https://www.bgseinc.com)
 
-- An international sports branding agency focus on creativity and strategic to elevate athletes and sports organzizations from professional athletes to sports franchises the agency committed to delivering innovative branding solutions that drive engagement and foster loyalty
+- An international sports branding agency focus on creativity and strategic to elevate athletes and sports organizations from professional athletes to sports franchises the agency committed to delivering innovative branding solutions that drive engagement and foster loyalty
 
 ##### PHOENIX SUNS
 
